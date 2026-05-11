@@ -109,4 +109,4 @@ Want to contribute to this idea? Feel free to fork the repo once it's set up, or
 
 Let’s build something useful together for IIT Bhilai! 💙
 
-Maintainer : @Rahul5977
+Maintainer : @garvitshrma
